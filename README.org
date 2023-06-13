@@ -1,0 +1,10 @@
+* srfi-23
+
+SRFI 23: Error reporting mechanism
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/g000001/srfi-23.git   |
+| commit  | ebea737  |
+| systems | srfi-23 |
+|---------+-------------------------------------------|
+
